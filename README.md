@@ -15,7 +15,7 @@ Done by Basil George Poulose, Nikhil Niranjan, Karthik Krishna.
 
 # Screenshots
  
-![Screenshot](Screenshots/01.png =300x300)
+![Screenshot](Screenshots/01.png)
  
 ![Screenshot](Screenshots/02.png)
  
